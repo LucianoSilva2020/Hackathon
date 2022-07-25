@@ -89,5 +89,4 @@ while (finalizacao == 1):
     print(f'A doação realizada foi de: {doacao}kg(s).')
     print(f'A instituição escolhida pelo doador foi: {instituicao}')
     print(f'''
-A doação de {doacao}kg() de alimento será realizada a instituição {instituicao} em breve! Obrigado {nome} por sua participação em nosso evento.''')
-
+A doação de {doacao}kg(s) de alimento será realizada a instituição {instituicao} em breve! Obrigado {nome} por sua participação em nosso evento.''')
